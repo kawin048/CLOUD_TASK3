@@ -117,7 +117,7 @@ gcloud compute instances create $VM_NAME \
 # Accessing Web server
 
 You can access the web server by using Using this External Ip of Vm .
-- To Access my Application: [Click Here](34.172.35.91)
+- To Access my Application: [Click Here](http://34.172.35.91)
 
  
 
