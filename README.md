@@ -1,6 +1,16 @@
 # GCP Automated Infrastructure Setup Script 
  This script will automate the creation of the virtual machine,VPC creation,Subnets,Firewalls and  a VM instance running an Apache web server. The goal is to deploy a basic, publicly accessible web server on GCP.
 
+# Table of Contents
+- Prerequisites
+- Script Overview
+- Usage
+- Script Details
+- Result
+- Accessing Web server
+
+ 
+
 # Prerequisites
 - A Google Cloud Account
 - A Project with billing enabled
@@ -106,7 +116,8 @@ gcloud compute instances create $VM_NAME \
 
 # Accessing Web server
 
-You can access the web server by using Using this External Ip of Vm . 
+You can access the web server by using Using this External Ip of Vm .
+- To Access my Application: [Click Here](34.172.35.91)
 
  
 
