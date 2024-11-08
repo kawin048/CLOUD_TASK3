@@ -107,17 +107,16 @@ gcloud compute instances create $VM_NAME \
     sudo systemctl start apache2
     sudo systemctl enable apache2'
 ```
-
-# Result
-
-- You will get VPC created with Subnets in your specified region.
-- You will Firewall Rule that allowing access to Your VM.
-- You will see an VM instance created with Apache web server running on it.
-
 # Accessing Web server
-
 You can access the web server by using Using this External Ip of Vm .
+- Example: http://[VM_EXTERNAL_IP]
+
+# Result 
+After following all steps , I built the automation script that creates the vm, vpc with subnets,firewall and serves apache webserver static page.
+
 - To Access my Application: [Click Here](http://34.172.35.91)
+  
+  
 
  
 
