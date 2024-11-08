@@ -2,12 +2,12 @@
  This script will automate the creation of the virtual machine,VPC creation,Subnets,Firewalls and  a VM instance running an Apache web server. The goal is to deploy a basic, publicly accessible web server on GCP.
 
 # Table of Contents
-- Prerequisites
-- Script Overview
-- Usage
-- Script Details
-- Result
-- Accessing Web server
+- [Prerequisites](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#prerequisites)
+- [Script Overview]()
+- [Usage](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#usage)
+- [Script Details](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#script-details)
+- [Result](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#result)
+- [Accessing Web server](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#accessing-web-server)
 
  
 
