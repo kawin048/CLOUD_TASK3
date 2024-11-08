@@ -6,8 +6,9 @@
 - [Script Overview](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#script-overview)
 - [Usage](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#usage)
 - [Script Details](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#script-details)
-- [Result](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#result)
 - [Accessing Web server](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#accessing-web-server)
+- [Result](https://github.com/kawin048/CLOUD_TASK3/blob/main/README.md#result)
+
 
  
 
