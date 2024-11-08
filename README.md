@@ -1,4 +1,4 @@
-# GCP Automated Infrastructure Setup Script 
+# GCP Automated Infrastructure Setup Script - TASK3
  This script will automate the creation of the virtual machine,VPC creation,Subnets,Firewalls and  a VM instance running an Apache web server. The goal is to deploy a basic, publicly accessible web server on GCP.
 
 # Table of Contents
