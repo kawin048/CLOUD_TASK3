@@ -8,6 +8,7 @@ VM_NAME="YOUR_INSTANCE_NAME"
 FIREWALL_RULE_NAME="YOUR_FIREWALL_NAME"
 
 gcloud config set project $PROJECT_ID
+gcloud services enable compute.googleapis.com
 
 
 #VPC CREATION....
