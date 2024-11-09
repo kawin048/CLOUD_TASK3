@@ -72,12 +72,14 @@ FIREWALL_RULE_NAME: The name of the firewall rule to allow HTTP access.
 
 ```
 
-2.Set Project: Sets the active GCP project for all commands in the script.
+2.Set Project: Sets the active GCP project for all commands in the script and enable compute api
 
 ```bash
 gcloud config set project $PROJECT_ID
+gcloud services enable compute.googleapis.com
 
 ```
+3
 
 3.VPC and Subnet Creation: Creates a VPC in custom mode and a subnet within it.
 
